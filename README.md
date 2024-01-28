@@ -1,0 +1,3 @@
+- Authentication with frontend and backend validation
+- After login you can redirect to the specific page
+- Used Bootstrap and MySQL
